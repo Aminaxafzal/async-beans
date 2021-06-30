@@ -1,0 +1,1 @@
+const {shopForBeans, soakTheBeans, cookTheBeans} = require('./library.js');
